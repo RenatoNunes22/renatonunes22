@@ -20,4 +20,5 @@ Olá, sou Renato Nunes
  
 <div>
   <a href="https://instagram.com/__renatonunes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/__renatonunes" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"   target= "_blank"></a>
   </div>
