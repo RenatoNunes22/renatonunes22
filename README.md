@@ -21,4 +21,5 @@ Olá, sou Renato Nunes
 <div>
   <a href="https://instagram.com/__renatonunes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://api.whatsapp.com/send?phone=5581996847547" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"   target= "_blank"></a>
+   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   target= "_blank"></a>
   </div>
