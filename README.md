@@ -1,6 +1,7 @@
 Olá, sou Renato Nunes
 
-- 🌱 Estudante de front-end e java
+-📚 Estudante de HTML e CSS
+-📚 Dominio moderado em Java
 
 <div align="center">
   <a href="https://github.com/renatonunes22">
