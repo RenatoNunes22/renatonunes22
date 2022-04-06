@@ -1,8 +1,11 @@
 ## Olá, sou Renato Nunes!
 
 -📚 Atualmente estudando Data Science com Python
+
 -📚 Conhecimento em Front-End (HTML, CSS, JS)
+
 -📚 Conhecimento em framework (React, Vue)
+
 -📚 Conhecimento em linguaguem (Java, JavaScript, Python)
 
 
