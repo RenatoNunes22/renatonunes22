@@ -1,8 +1,9 @@
 ## Olá, sou Renato Nunes!
 
--📚 Estudante de HTML e CSS
-
--📚 Dominio moderado em Java
+-📚 Atualmente estudando Data Science com Python
+-📚 Conhecimento em Front-End (HTML, CSS, JS)
+-📚 Conhecimento em framework (React, Vue)
+-📚 Conhecimento em linguaguem (Java, JavaScript, Python)
 
 
 
