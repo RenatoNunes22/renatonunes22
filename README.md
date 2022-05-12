@@ -1,11 +1,12 @@
 ## Olá, sou Renato Nunes!
 
--📚 Conhecimento em Front-End (HTML, CSS, JS)
+-📚 Conhecimento em Front-End (HTML5, CSS3, JS)
 
 -📚 Conhecimento em Framework (React, Vue, Flask)
 
--📚 Conhecimento em linguaguens (Java, JavaScript, Python, C#)
+-📚 Conhecimento em linguaguens (Java, JavaScript, Python, C#, TypeScript)
 
+-📚 Linguagem utilizada atualmente (TypeScript, Python)
 
 
 
