@@ -4,7 +4,7 @@
 
 -📚 Conhecimento em Framework (React, Vue, Flask)
 
--📚 Conhecimento em linguaguens (Java, JavaScript, Python, C#, TypeScript)
+-📚 Conhecimento em linguaguens (Java, Node, Python, C#, TypeScript)
 
 -📚 Linguagem utilizada atualmente (TypeScript, Python)
 
