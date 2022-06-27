@@ -2,11 +2,11 @@
 
 -📚 Conhecimento em Front-End (HTML5, CSS3, JavaScript)
 
--📚 Conhecimento em Framework (React, Vue, Flask)
+-📚 Conhecimento em Framework (React)
 
--📚 Conhecimento em linguaguens (Java, Python, TypeScript)
+-📚 Conhecimento em linguaguens (Java, Python, TypeScript, Kotlin)
 
--📚 Linguagem utilizada atualmente (TypeScript, Python)
+-📚 Linguagem utilizada atualmente (TypeScript, Kotlin)
 
 
 
