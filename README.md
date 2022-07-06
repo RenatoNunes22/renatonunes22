@@ -1,10 +1,10 @@
 ## Olá, sou Renato Nunes!
 
--📚 Conhecimento em Front-End (React, Next.js, GraphQL, Cypress)
+-📚 Conhecimento em Front-End (React, Next.js, Sass, GraphQL, Cypress)
 
 -📚 Conhecimento em Mobile (React Native)
 
--📚 Conhecimento em linguaguens (TypeScript, Python, Kotlin)
+-📚 Conhecimento em linguaguens (TypeScript, Python)
 
 -📚 Linguagem utilizada atualmente (TypeScript)
 
