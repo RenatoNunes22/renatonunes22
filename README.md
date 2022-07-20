@@ -2,8 +2,6 @@
 
 -📚 Conhecimento em Front-End (React, Sass, Cypress)
 
--📚 Conhecimento em Mobile (React Native)
-
 -📚 Conhecimento em linguaguens (TypeScript, Kotlin, Java)
 
 -📚 Linguagem utilizada atualmente (TypeScript, Java)
