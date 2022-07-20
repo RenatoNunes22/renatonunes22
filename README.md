@@ -4,9 +4,9 @@
 
 -📚 Conhecimento em Mobile (React Native)
 
--📚 Conhecimento em linguaguens (TypeScript, Kotlin, Python)
+-📚 Conhecimento em linguaguens (TypeScript, Kotlin, Java)
 
--📚 Linguagem utilizada atualmente (TypeScript)
+-📚 Linguagem utilizada atualmente (TypeScript, Java)
 
 
 
