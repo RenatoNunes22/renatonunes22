@@ -1,6 +1,6 @@
 ## Olá, sou Renato Nunes!
 
--📚 Conhecimento em Front-End (React, Next.js, Sass, GraphQL, Cypress)
+-📚 Conhecimento em Front-End (React, Sass, Cypress)
 
 -📚 Conhecimento em Mobile (React Native)
 
