@@ -1,10 +1,10 @@
 ## Olá, sou Renato Nunes!
 
--📚 Conhecimento em Front-End (React, NextJS, Storybook, Jest)
+📚 Conhecimento em Front-End - React | NextJS | Storybook | Jest
 
--📚 Conhecimento em linguaguens (TypeScript, Kotlin, Java, Python)
+📚 Conhecimento em linguaguens - TypeScript | Java | Python | Kotlin
 
--📚 Linguagem utilizada atualmente (TypeScript, JavaScript)
+📚 Linguagem utilizada atualmente - TypeScript | JavaScript 
 
 
 
