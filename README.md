@@ -1,6 +1,6 @@
 ## Olá, sou Renato Nunes!
 
--📚 Conhecimento em Front-End (React, Sass, Cypress, Jest)
+-📚 Conhecimento em Front-End (React, NextJS, Storybook, Jest)
 
 -📚 Conhecimento em linguaguens (TypeScript, Kotlin, Java, Python)
 
