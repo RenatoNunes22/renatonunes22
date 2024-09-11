@@ -4,7 +4,7 @@
 
 📚 Conhecimento em Back-End - NodeJS | Amazon Web Service | MongoDB 
 
-📚 Linguagem utilizada atualmente - TypeScript | JavaScript 
+📚 Linguagem utilizada atualmente - TypeScript | JavaScript | Java
 
 
 
