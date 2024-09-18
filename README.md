@@ -1,6 +1,6 @@
 ## Olá, sou Renato Nunes!
 
-📚 Conhecimento em Front-End - React | NextJS | Storybook 
+📚 Conhecimento em Front-End - React | NextJS 
 
 📚 Conhecimento em Back-End - NodeJS | Amazon Web Service | MongoDB 
 
@@ -15,6 +15,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunes22&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Renato-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Renato-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renato-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Renato-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
