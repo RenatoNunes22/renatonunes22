@@ -8,7 +8,7 @@
 
 Node.js · TypeScript · AWS · .NET · Go
 
-*Recife, Brasil 🇧🇷 — Open to remote international roles*
+*Recife, Brasil*
 
 ---
 
