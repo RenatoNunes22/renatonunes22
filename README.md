@@ -21,7 +21,6 @@ const renato = {
   role:     "Software Engineer @ SiDi (Samsung R&D)",
   focus:    ["Backend", "Cloud", "Distributed Systems"],
   stack:    ["Node.js", "TypeScript", "AWS", ".NET", "Go"],
-  building: "Agently — AI-powered WhatsApp automation (AWS Bedrock + RAG)",
   goal:     "Software Architect · Remote · International",
 };
 ```
