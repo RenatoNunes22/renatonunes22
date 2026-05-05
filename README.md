@@ -53,15 +53,6 @@ const renato = {
 
 ---
 
-### `$ ls projects/`
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🤖 **Agently** | AI WhatsApp attendant — fully managed | Node.js · AWS Bedrock · RAG · DynamoDB |
-| 🏗️ **ClinicFlow API** | Healthcare API com DDD/CQRS | Node.js · TypeScript · AWS |
-| 🔄 **StreamVault** | Event pipeline com DynamoDB streams | Node.js · EventBridge · DynamoDB |
-| 🛡️ **ShardGate** | API gateway resiliente | Node.js · TypeScript · AWS |
-
 
 ### `$ ping me`
 
